@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 3000
 
 # Step 7: Run the application
-CMD ["node", "index.js"]0
+CMD ["node", "index.js"]
